@@ -5,7 +5,9 @@
 ## Diretrizes do projeto
 
 Projeto React usando template Typescript.
+```
  -> Uma ideia Rocketseat!
+```
  
 :atom_symbol:
 
@@ -17,13 +19,11 @@ Projeto React usando template Typescript.
 
 ### Pré requisitos do ambiente de desenvolvimento:
 
-```
 * Instalação necessária
   - Node + NPM;
   - Yarn;
   - Expo;
   - Visual Studio Code e configurações.
-```
 
 ## Histórico de lançamentos
 
