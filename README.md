@@ -37,7 +37,7 @@ Rodrigo Brocchi – [@brocchirodrigo](https://twitter.com/brocchirodrigo) – ro
 
 ##### Instagram [@brocchirodrigo](https://www.instagram.com/brocchirodrigo/)
 
-[Githug](https://github.com/brocchirodrigo/)
+[Github](https://github.com/brocchirodrigo/)
 
 ## Contributing
 
