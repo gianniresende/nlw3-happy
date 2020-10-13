@@ -5,9 +5,8 @@
 ## Diretrizes do projeto
 
 Projeto React usando template Typescript.
-```
- -> Uma ideia Rocketseat!
-```
+
+ -> Uma ideia [Rocketseat](https://rocketseat.com.br/)!
  
 :atom_symbol:
 
