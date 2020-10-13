@@ -11,9 +11,9 @@ Projeto React usando template Typescript.
 
 > Developer:
 
-- [] Front end [Em andamento]
-- [] Back end
-- [] Mobile
+- [ ] Front end [Em andamento]
+- [ ] Back end
+- [ ] Mobile
 
 ### Pré requisitos do ambiente de desenvolvimento:
 
