@@ -8,9 +8,7 @@ Projeto React usando template Typescript.
 
  -> Uma ideia [Rocketseat](https://rocketseat.com.br/)!
  
-:atom_symbol:
-
-> Developer:
+> Developer: :atom_symbol:
 
 - [ ] Front end [Em andamento]
 - [ ] Back end
