@@ -34,9 +34,10 @@ Projeto React usando template Typescript.
 ## Meta
 
 Rodrigo Brocchi – [@brocchirodrigo](https://twitter.com/brocchirodrigo) – rodrigo.brocchi@rodrigobrocchi.com.br
-###Instagram [@brocchirodrigo](https://www.instagram.com/brocchirodrigo/)
 
-[https://github.com/brocchirodrigo/](https://github.com/brocchirodrigo/)
+##### Instagram [@brocchirodrigo](https://www.instagram.com/brocchirodrigo/)
+
+[Githug](https://github.com/brocchirodrigo/)
 
 ## Contributing
 
