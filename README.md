@@ -31,15 +31,13 @@ Projeto React usando template Typescript.
 
 ## Meta
 
-Rodrigo Brocchi – [@brocchirodrigo](https://twitter.com/brocchirodrigo) – rodrigo.brocchi@rodrigobrocchi.com.br
+##### Instagram [@gianniresende](https://www.instagram.com/gianniresende/)
 
-##### Instagram [@brocchirodrigo](https://www.instagram.com/brocchirodrigo/)
-
-[Github](https://github.com/brocchirodrigo/)
+[Github](https://github.com/gianniresende/)
 
 ## Contributing
 
-1. Faça o _fork_ do projeto (<https://github.com/brocchirodrigo/happy-nlw3/fork>)
+1. Faça o _fork_ do projeto (<https://github.com/gianniresende/happy-nlw3/fork>)
 2. Crie uma _branch_ para sua modificação (`git checkout -b feature/fooBar`)
 3. Faça o _commit_ (`git commit -am 'Add some fooBar'`)
 4. _Push_ (`git push origin feature/fooBar`)
